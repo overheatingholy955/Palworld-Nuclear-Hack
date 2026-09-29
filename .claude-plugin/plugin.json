@@ -1,0 +1,13 @@
+{
+  "name": "hank",
+  "displayName": "Hank: AI Security & EU Compliance",
+  "description": "A senior AI security and EU compliance analyst for Claude Code. Reviews LLM features, agents and MCP servers against the OWASP LLM and Agentic Top 10, and reviews any project against GDPR, ePrivacy, the EU AI Act, NIS2, the Cyber Resilience Act, DORA and the Data Act.",
+  "version": "2.0.0",
+  "author": {
+    "name": "AIwithDiego"
+  },
+  "homepage": "https://github.com/aiwithdiego/hank",
+  "repository": "https://github.com/aiwithdiego/hank",
+  "license": "MIT",
+  "keywords": ["security", "ai-security", "owasp", "prompt-injection", "mcp", "gdpr", "eu-ai-act", "nis2", "dora", "cyber-resilience-act", "compliance", "claude-code"]
+}
